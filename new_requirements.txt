@@ -1,0 +1,10 @@
+sqlalchemy
+snowflake-sqlalchemy
+langchain
+langchain_experimental
+sqlalchemy-aurora-data-api
+PyAthena[SQLAlchemy]
+langchain-anthropic
+redshift-connector
+sqlalchemy-redshift
+
